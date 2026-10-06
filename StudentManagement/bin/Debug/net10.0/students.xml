@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+	<Student id="SV001">
+		<Name>Nguyen Van An</Name>
+		<Gender>Nam</Gender>
+		<Age>20</Age>
+		<Class>CTK44</Class>
+		<Major>Cong nghe thong tin</Major>
+		<GPA>8.2</GPA>
+	</Student>
+	<Student id="SV002">
+		<Name>Tran Thi Binh</Name>
+		<Gender>Nu</Gender>
+		<Age>21</Age>
+		<Class>CTK44</Class>
+		<Major>He thong thong tin</Major>
+		<GPA>7.5</GPA>
+	</Student>
+	<Student id="SV003">
+		<Name>Le Van Cuong</Name>
+		<Gender>Nam</Gender>
+		<Age>20</Age>
+		<Class>CTK45</Class>
+		<Major>Ky thuat phan mem</Major>
+		<GPA>9.1</GPA>
+	</Student>
+	<Student id="SV004">
+		<Name>Pham Thi Dung</Name>
+		<Gender>Nu</Gender>
+		<Age>22</Age>
+		<Class>CTK45</Class>
+		<Major>Cong nghe thong tin</Major>
+		<GPA>8.7</GPA>
+	</Student>
+	<Student id="SV005">
+		<Name>Hoang Van Em</Name>
+		<Gender>Nam</Gender>
+		<Age>21</Age>
+		<Class>CTK44</Class>
+		<Major>Cong nghe thong tin</Major>
+		<GPA>6.8</GPA>
+	</Student>
+	<Student id="SV006">
+		<Name>Nguyen Thi Hoa</Name>
+		<Gender>Nu</Gender>
+		<Age>20</Age>
+		<Class>CTK45</Class>
+		<Major>He thong thong tin</Major>
+		<GPA>9.3</GPA>
+	</Student>
+	<Student id="SV007">
+		<Name>Do Van Khanh</Name>
+		<Gender>Nam</Gender>
+		<Age>23</Age>
+		<Class>CTK44</Class>
+		<Major>Ky thuat phan mem</Major>
+		<GPA>7.2</GPA>
+	</Student>
+	<Student id="SV008">
+		<Name>Vo Thi Lan</Name>
+		<Gender>Nu</Gender>
+		<Age>21</Age>
+		<Class>CTK45</Class>
+		<Major>Cong nghe thong tin</Major>
+		<GPA>8.9</GPA>
+	</Student>
+</Students>
